@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6292f746-310c-46e7-bee8-dd17d7007af3",
+  "id_short": 906397,
+  "published_at": "2026-04-15T19:21:18Z",
+  "repo_name": "restaurant-verified-email-access-in-indiana-us-sample-906397",
+  "sample_asset_name": "beamstation_906397_restaurants-us-in_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/906397/beamstation_906397_restaurants-us-in_SAMPLE_DIST.csv",
+  "sample_records": 245,
+  "sample_sha256": "98decf9c40868d38fbb063b9eef18ba763b905fc8628145b93b623d2c1ca946c",
+  "sample_size_bytes": 980724,
+  "total_records": 1933
+}
