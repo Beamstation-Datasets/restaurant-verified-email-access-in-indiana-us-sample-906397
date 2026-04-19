@@ -9,9 +9,9 @@
 | Dataset ID | `906397` |
 | Location | Indiana |
 | Category | Restaurants |
-| Full dataset size | 1,933 records |
-| Free sample size | 245 records (12.67%) |
-| Last export | 2026-04-01T01:18:53.739195+00:00 |
+| Full dataset size | 2,452 records |
+| Free sample size | 245 records (9.99%) |
+| Last export | 2026-04-15T03:23:30.713297+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-indiana-us-sample-906397/releases/download/sample-latest/beamstation_906397_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
